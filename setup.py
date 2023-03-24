@@ -22,5 +22,5 @@ setup(
     ),
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/ther1d/shell_gpt",
+    url="https://github.com/clockzhong/shell_gpt",
 )
